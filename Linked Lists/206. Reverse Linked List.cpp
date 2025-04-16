@@ -1,5 +1,5 @@
 // 206. Reverse Linked List
-// iterative solution, O(n) time to iterate through the list, O(1) storage
+// Conplexity: iterative solution, O(n) time to iterate through the list, O(1) storage
 // Notes: we can ommit cur and just use head instead
 // Follow up: Do it recursively
 
