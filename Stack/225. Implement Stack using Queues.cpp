@@ -1,5 +1,5 @@
 // 225. Implement Stack using Queues
-// Conplexity:
+// Conplexity: O(n) time for push, O(1) for pop & top & empty, O(n) space
 // Notes:
 // Follow up: Try solving it using 1 queue
 
