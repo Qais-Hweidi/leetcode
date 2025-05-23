@@ -1,5 +1,5 @@
 // 160. Intersection of Two Linked Lists
-// Conplexity: O(m*n) time, O(1) storage
+// Complexity: O(m*n) time, O(1) storage
 // Notes: Brute force solution for now
 // Follow up: Try other solutions with O(m+n), using 2 pointers & hash set
 

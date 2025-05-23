@@ -1,5 +1,5 @@
 // 75. Sort Colors
-// Conplexity: O(n) time, O(1) storage
+// Complexity: O(n) time, O(1) storage
 // Notes:
 // Follow up: Try solving it using vectors & pointers
 

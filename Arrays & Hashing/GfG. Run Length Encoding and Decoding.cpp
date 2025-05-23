@@ -1,6 +1,6 @@
 // GfG. Run Length Encoding and Decoding
 // https://www.geeksforgeeks.org/run-length-encoding/
-// Conplexity: O(n), O(n) storage
+// Complexity: O(n), O(n) storage
 // Notes: Actually there is no need for newStr and extra complext stuff I did, you can just print directly in each iteration, with O(1) storage instead
 // Follow up:
 

@@ -1,5 +1,5 @@
 // 876. Middle of the Linked List
-// Conplexity: O(n) time to iterate through the list, O(1) storage
+// Complexity: O(n) time to iterate through the list, O(1) storage
 // Notes:
 // Follow up:
 

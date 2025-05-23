@@ -1,5 +1,5 @@
 // 387. First Unique Character in a String
-// Conplexity: O(n^2) brute force, O(1) storage
+// Complexity: O(n^2) brute force, O(1) storage
 // Notes:
 // Follow up: do it with O(n)
 

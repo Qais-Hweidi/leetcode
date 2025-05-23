@@ -1,5 +1,5 @@
 // 217. Contains Duplicate
-// Conplexity: O(nlgn) time, O(lgn) storage
+// Complexity: O(nlgn) time, O(lgn) storage
 // Notes:
 // Follow up:
 
@@ -19,7 +19,7 @@
 /***************************************************************/
 
 // 217. Contains Duplicate
-// Conplexity: O(n) time, O(n) storage
+// Complexity: O(n) time, O(n) storage
 // Notes:
 // Follow up:
 

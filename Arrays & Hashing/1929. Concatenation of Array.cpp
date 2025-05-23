@@ -1,5 +1,5 @@
 // 1929. Concatenation of Array
-// Conplexity: O(n) time, O(n) storage
+// Complexity: O(n) time, O(n) storage
 // Notes:
 // Follow up:
 

@@ -1,5 +1,5 @@
 // 463. Island Perimeter
-// Conplexity: O(m * n) time, O(1) storage
+// Complexity: O(m * n) time, O(1) storage
 // Notes:
 // Follow up: There are other shorter & cleaner solutions
 

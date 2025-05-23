@@ -1,5 +1,5 @@
 // 242. Valid Anagram
-// Conplexity: O(nlgn) time, O(n) storage
+// Complexity: O(nlgn) time, O(n) storage
 // Notes: yes, i know hash map would be a more effecient solution
 // Follow up: use hash
 

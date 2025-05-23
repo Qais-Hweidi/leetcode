@@ -1,5 +1,5 @@
 // 125. Valid Palindrome
-// Conplexity: O(n) time, O(n) storage
+// Complexity: O(n) time, O(n) storage
 // Notes:
 // Follow up: Come back again and solve it with O(n)
 

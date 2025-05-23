@@ -1,5 +1,5 @@
 // 232. Implement Queue using Stacks
-// Conplexity: O(n) time for pop & top, O(1) for push & empty, O(n) space
+// Complexity: O(n) time for pop & top, O(1) for push & empty, O(n) space
 // Notes:
 // Follow up: Could be simpler
 

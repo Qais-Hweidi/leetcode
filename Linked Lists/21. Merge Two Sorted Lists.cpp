@@ -1,5 +1,5 @@
 // 21. Merge Two Sorted Lists
-// Conplexity: O(n+m) time, O(1) storage
+// Complexity: O(n+m) time, O(1) storage
 // Notes:
 // Follow up:
 
